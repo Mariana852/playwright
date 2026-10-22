@@ -1,0 +1,3 @@
+name,email,password,expectedResult
+valid demo customer,customer@practicesoftwaretesting.com,welcome01,success
+invalid password,customer@practicesoftwaretesting.com,incorrect-password,failure
