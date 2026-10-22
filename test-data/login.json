@@ -1,0 +1,10 @@
+{
+  "success": {
+    "email": "customer@practicesoftwaretesting.com",
+    "password": "welcome01"
+  },
+  "failure": {
+    "email": "customer@practicesoftwaretesting.com",
+    "password": "incorrect-password"
+  }
+}
